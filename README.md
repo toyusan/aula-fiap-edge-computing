@@ -1,38 +1,38 @@
 <div align="center">
-<h1 align="center">
-<br>AULA-FIAP-EDGE-COMPUTING</h1>
+  <h1 align="center">
+    <br>AULA-FIAP-EDGE-COMPUTING</h1>
 </div>
 
 ---
 
-## 📖 Table of Contents
-- [📖 Table of Contents](#-table-of-contents)
-- [📍 Overview](#-overview)
-- [📂 repository Structure](#-repository-structure)
-- [⚙️ Modules](#modules)
-- [🚀 Getting Started](#-getting-started)
-    - [🔧 Installation](#-installation)
-- [🤝 Contributing](#-contributing)
-- [📄 License](#-license)
+## 📖 Índice
+- [📖 Índice](#-índice)
+- [📍 Visão Geral](#-visão-geral)
+- [📂 Estrutura do Repositório](#-estrutura-do-repositório)
+- [⚙️ Módulos](#módulos)
+- [🚀 Início Rápido](#-início-rápido)
+    - [🔧 Instalação](#-instalação)
+- [🤝 Contribuições](#-contribuições)
+- [📄 Licença](#-licença)
 
 ---
 
-## 📍 Overview
+## 📍 Visão Geral
 
-Repositório para armazenar a aulas do curso Edge Computing and Computing Systems do curso de Engenharia de Software da FIAP
+Repositório para armazenar as aulas do curso Edge Computing and Computing Systems do curso de Engenharia de Software da FIAP.
 
 ---
 
 
-## 📂 Repository Structure
+## 📂 Estrutura do Repositório
 
 ```sh
 └── aula-fiap-edge-computing/
     ├── 00 Plano de Aula/
-    ├── 01 Referencias/
+    ├── 01 Referências/
     ├── 1º Semestre/
     │   ├── Aula 00 - Aula Magna e Orientações/
-    │   ├── Aula 01 - Introdução a Computação/
+    │   ├── Aula 01 - Introdução à Computação/
     │   ├── Aula 02 - Sistemas de Numeração/
     │   ├── Aula 03 - Lógica de Programação/
     │   ├── Aula 04 - Tipos de Variáveis/
@@ -67,75 +67,76 @@ Repositório para armazenar a aulas do curso Edge Computing and Computing System
     │   └── sketch_aug20a/
     │       └── WiFi/
 
+
 ```
 ---
 
-## 🚀 Getting Started
+## 🚀 Início Rápido
 
-***Dependencies***
+***Dependências***
 
-Please ensure you have the following dependencies installed on your system:
+Certifique-se de ter as seguintes dependências instaladas em seu sistema:
 
 `- ℹ️ PowerPoint`
 
 `- ℹ️ Arduino IDE`
 
-### 🔧 Installation
+### 🔧 Instalação
 
-1. Clone the aula-fiap-edge-computing repository:
+1. Clone o repositório aula-fiap-edge-computing:
 ```sh
 git clone https://github.com/toyusan/aula-fiap-edge-computing
 ```
 
-2. Change to the project directory:
+2. Navegue até o diretório do projeto:
 ```sh
 cd aula-fiap-edge-computing
 ```
 ---
 
-## 🤝 Contributing
+## 🤝 Contribuições
 
-Contributions are welcome! Here are several ways you can contribute:
+Contribuições são bem-vindas! Aqui estão várias maneiras de contribuir:
 
-- **[Submit Pull Requests](https://github.com/toyusan/aula-fiap-edge-computing/blob/main/CONTRIBUTING.md)**: Review open PRs, and submit your own PRs.
-- **[Join the Discussions](https://github.com/toyusan/aula-fiap-edge-computing/discussions)**: Share your insights, provide feedback, or ask questions.
-- **[Report Issues](https://github.com/toyusan/aula-fiap-edge-computing/issues)**: Submit bugs found or log feature requests for Airton Toyofuku.
+- **[Submit Pull Requests](https://github.com/toyusan/aula-fiap-edge-computing/blob/main/CONTRIBUTING.md)**: Revise os PRs abertos e envie seus próprios PRs.
+- **[Join the Discussions](https://github.com/toyusan/aula-fiap-edge-computing/discussions)**: Compartilhe suas ideias, forneça feedback ou faça perguntas.
+- **[Report Issues](https://github.com/toyusan/aula-fiap-edge-computing/issues)**: Envie bugs encontrados ou faça solicitações de recursos para Airton Toyofuku.
 
-#### *Contributing Guidelines*
+#### *Diretrizes de Contribuição*
 
 <details closed>
 <summary>Click to expand</summary>
 
-1. **Fork the Repository**: Start by forking the project repository to your GitHub account.
-2. **Clone Locally**: Clone the forked repository to your local machine using a Git client.
+1. **Fork the Repository**: Comece fazendo fork do repositório do projeto para sua conta do GitHub.
+2. **Clone Locally**: Clone o repositório forkado para sua máquina local usando um cliente Git..
    ```sh
    git clone <your-forked-repo-url>
    ```
-3. **Create a New Branch**: Always work on a new branch, giving it a descriptive name.
+3. **Create a New Branch**: Sempre trabalhe em um novo branch, dando a ele um nome descritivo.
    ```sh
    git checkout -b new-feature-x
    ```
-4. **Make Your Changes**: Develop and test your changes locally.
-5. **Commit Your Changes**: Commit with a clear and concise message describing your updates.
+4. **Make Your Changes**: Desenvolva e teste suas alterações localmente.
+5. **Commit Your Changes**: Faça commit com uma mensagem clara e concisa descrevendo suas atualizações.
    ```sh
    git commit -m 'Implemented new feature x.'
    ```
-6. **Push to GitHub**: Push the changes to your forked repository.
+6. **Push to GitHub**:  Envie as alterações para o seu repositório forkado.
    ```sh
    git push origin new-feature-x
    ```
-7. **Submit a Pull Request**: Create a PR against the original project repository. Clearly describe the changes and their motivations.
+7. **Submit a Pull Request**:     Crie um PR contra o repositório do projeto original. Descreva claramente as alterações e suas motivações.
 
-Once your PR is reviewed and approved, it will be merged into the main branch.
+Uma vez que seu PR for revisado e aprovado, ele será mesclado no branch principal.
 
 </details>
 
 ---
 
-## 📄 License
+## 📄 Licença
 
 
-This project is protected under the Copyright License. Uso ou reprodução de qualquer parte deste conteúdo é proibido com excessão de autorização por escrito dos respectivos autores.
+Este projeto está protegido sob a Licença de Direitos Autorais. O uso ou reprodução de qualquer parte deste conteúdo é proibido, exceto com autorização por escrito dos respectivos autores.
 
 ---
 
