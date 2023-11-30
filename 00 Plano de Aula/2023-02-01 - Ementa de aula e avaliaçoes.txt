@@ -1,0 +1,16 @@
+Exemplo de checkpoint
+
+- Pedir um projeto de iot usando o tinkercad;
+- Abrir um formulário no forms pro aluno preencher nome, explicação e link;
+-Pedir um video (youtube) de até 2 minutos, com o aluno explicando o que foi feito;
+
+Para tempo de aula reduzido: Passa a base, passa o exemplo, passa o exercicio/ simulação como lição de casa;
+
+Fazer lista de compras:
+- ponte H e motor com redução (ou hackeado)
+- Gravador de bootloader (Sbasp);
+- RTC;
+- ESP32;
+- Bateria de 9V e conector;
+- 2 multimetros por turma;
+- Instalar VSCode com platformIO;
